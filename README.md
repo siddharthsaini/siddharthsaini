@@ -1,6 +1,6 @@
 ### 👋 Hey there!
 ## 🌐 www.siddharthsaini.tech
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthsaini" alt="siddharthsaini" /> </p>
 <!--
 **siddharthsaini/siddharthsaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
