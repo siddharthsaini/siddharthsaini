@@ -1,8 +1,10 @@
 ## 👋 Hey, I'm [Siddharth!](https://siddharthsaini.tech) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthsaini=Views" alt="siddharthsaini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthsaini" alt="siddharthsaini" /> </p>
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-siddharthsaini.tech-2648ff?style=flat-square&logo=google-chrome)](https://siddharthsaini.tech/)
+
+<br/>
 
 <a href="https://linkedin.com/in/sidxharth">
   <img align="left" alt="Siddharth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
