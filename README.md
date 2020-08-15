@@ -1,6 +1,7 @@
-### 👋 Hey, I'm [Siddharth!](https://siddharthsaini.tech) 👋
+## 👋 Hey, I'm [Siddharth!](https://siddharthsaini.tech) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthsaini=Views&color=blue&style=plastic" alt="siddharthsaini" /> </p>
+
 [![website](https://img.shields.io/badge/PortfolioWebsite-pawan.live-2648ff?style=flat-square&logo=google-chrome)](https://siddharthsaini.tech/)
 
 <a href="https://linkedin.com/in/sidxharth">
