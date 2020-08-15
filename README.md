@@ -22,8 +22,6 @@
 
 <br/>
 <br/>
-<br/>
-
 
 - 🔭 I’m currently working on Server-side scripting
 - 💬 Ask me about Flutter and Unreal
