@@ -24,7 +24,7 @@
 <br/>
 
 - 🔭 I’m currently working on Server-side scripting
-- 💬 Ask me about Flutter and Unreal
+- 💬 Ask me about Flutter and C++
 - 📫 How to reach me: sidxharth@gmail.com
 - ⚡ Fun fact: [Casual Photographer](https://instagram.com/notacamguy)
 
