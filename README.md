@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on Server-side scripting and Flutter
 - 💬 Ask me about Flutter and C++
-- 📫 How to reach me: sidxharth@gmail.com
+- 📫 How to reach me: thesiddharthsaini@gmail.com
 - ⚡ Fun fact: [Casual Photographer](https://instagram.com/siddharthsa.ini)
 
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharthsaini&hide=["issues"]&show_icons=true)
