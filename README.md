@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Server-side scripting and Flutter
+- 🔭 I’m currently working on Server-side Django and Flutter
 - 💬 Ask me about Flutter and C++
 - 📫 How to reach me: thesiddharthsaini@gmail.com
 - ⚡ Fun fact: [Casual Photographer](https://instagram.com/siddharthsa.ini)
