@@ -30,6 +30,6 @@
 
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharthsaini&hide=["issues"]&show_icons=true)
 
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=light&hide_langs_below=1" />
+<a href="https://github.com/siddharthsaini">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthsaini&theme=light&hide_langs_below=1" />
 </a>
