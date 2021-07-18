@@ -1,4 +1,4 @@
-## 👋 Hey, I'm [Siddharth!](https://siddharthsaini.tech) 👋
+## 👋 Hey, I'm [Siddharth!](https://siddharthsaini.github.io) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthsaini" alt="siddharthsaini" /> </p>
 
