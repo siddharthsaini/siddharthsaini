@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthsaini" alt="siddharthsaini" /> </p>
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-siddharthsaini.tech-2648ff?style=flat-square&logo=google-chrome)](https://siddharthsaini.tech/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-siddharthsaini.github.io-2648ff?style=flat-square&logo=google-chrome)](https://siddharthsaini.github.io)
 
 <a href="https://linkedin.com/in/sidxharth">
   <img align="left" alt="Siddharth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
