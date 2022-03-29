@@ -26,7 +26,7 @@
 - 🔭 I’m currently working on DSA and CP
 - 💬 Ask me about Flutter and C++
 - 📫 How to reach me: thesiddharthsaini@gmail.com
-- ⚡ Fun fact: [Casual Photographer](https://instagram.com/siddharthsa.ini)
+- ⚡ Fun fact: [Casual Photographer](https://instagram.com/sidmstr)
 
 <!-- ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharthsaini&hide=["issues"]&show_icons=true) -->
 
