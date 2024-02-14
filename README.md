@@ -23,8 +23,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on DSA and CP
-- 💬 Ask me about Flutter and C++
+- 🔭 I’m currently working on React, React Native, Spring Boot and Node
 - 📫 How to reach me: thesiddharthsaini@gmail.com
 - ⚡ Fun fact: [Casual Photographer](https://instagram.com/sidslr)
 
