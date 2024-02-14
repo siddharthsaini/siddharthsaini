@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on React, React Native, Spring Boot and Node
+- 🔭 My stack: React | React Native | Flutter | Spring Boot | Node | Tailwind
 - 📫 How to reach me: thesiddharthsaini@gmail.com
 - ⚡ Fun fact: [Casual Photographer](https://instagram.com/sidslr)
 
